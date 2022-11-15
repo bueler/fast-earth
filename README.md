@@ -7,7 +7,7 @@ simulations_, Annals of Glaciology 46, 97-105](https://doi.org/10.3189/172756407
 These codes were recovered from the source files for the [arxiv preprint](https://arxiv.org/abs/physics/0606074)
 which preceded the published paper.
 
-# Matlab codes
+### Matlab codes
 
 **Work in progress**  The codes in `matlab/` do not work in current Octave.
 Feel free to send me updated codes which do.  Perhaps first try to run the
